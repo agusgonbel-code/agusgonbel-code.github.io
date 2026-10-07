@@ -1,0 +1,4252 @@
+{
+ "app": "Personal Recomp",
+ "schemaVersion": 4,
+ "exportedAt": "2026-10-06T05:02:59.612Z",
+ "data": {
+  "v": 3,
+  "created": "2026-09-26T15:19:10.710Z",
+  "profile": {
+   "age": 46,
+   "heightCm": 181,
+   "weightKg": 75,
+   "sex": "hombre",
+   "activity": "ligero",
+   "goal": "recomp",
+   "trainHour": "06:00",
+   "fat": 22,
+   "customTargets": {
+    "kcal": 2500,
+    "p": 165,
+    "c": 290,
+    "f": 75
+   }
+  },
+  "exercises": {
+   "lib:Press banca": {
+    "name": "Press banca",
+    "canonical": "Press banca",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Press inclinado mancuernas": {
+    "name": "Press inclinado mancuernas",
+    "canonical": "Press inclinado mancuernas",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Fondos": {
+    "name": "Fondos",
+    "canonical": "Fondos",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Elevaciones laterales": {
+    "name": "Elevaciones laterales",
+    "canonical": "Elevaciones laterales",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Extensión tríceps polea": {
+    "name": "Extensión tríceps polea",
+    "canonical": "Extensión tríceps polea",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Press francés barra Z": {
+    "name": "Press francés barra Z",
+    "canonical": "Press francés barra Z",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Press inclinado con mancuernas": {
+    "name": "Pecho maquina",
+    "canonical": "Press inclinado con mancuernas",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Remo con pecho apoyado": {
+    "name": "Remo con pecho apoyado",
+    "canonical": "Remo con pecho apoyado",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Jalón al pecho": {
+    "name": "Jalón al pecho",
+    "canonical": "Jalón al pecho",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Pájaros en máquina": {
+    "name": "Pájaros en máquina",
+    "canonical": "Pájaros en máquina",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Curl inclinado con mancuernas": {
+    "name": "Curl inclinado con mancuernas",
+    "canonical": "Curl inclinado con mancuernas",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Extensión de tríceps en polea": {
+    "name": "Extensión de tríceps en polea",
+    "canonical": "Extensión de tríceps en polea",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Bíceps barra z": {
+    "name": "Bíceps barra z",
+    "canonical": "Bíceps barra z",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Sentadilla hack": {
+    "name": "Sentadilla hack",
+    "canonical": "Sentadilla hack",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Peso muerto rumano": {
+    "name": "Peso muerto rumano",
+    "canonical": "Peso muerto rumano",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Zancada atrás": {
+    "name": "Zancada atrás",
+    "canonical": "Zancada atrás",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Aductor en máquina": {
+    "name": "Aductor en máquina",
+    "canonical": "Aductor en máquina",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Gemelo de pie": {
+    "name": "Gemelo de pie",
+    "canonical": "Gemelo de pie",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Crunch en polea": {
+    "name": "Crunch en polea",
+    "canonical": "Crunch en polea",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Pallof press": {
+    "name": "Pallof press",
+    "canonical": "Pallof press",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Presa pecho maquina": {
+    "name": "Presa pecho maquina",
+    "canonical": "Presa pecho maquina",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Press plano con mancuernas": {
+    "name": "Presa inclinado maquina",
+    "canonical": "Press plano con mancuernas",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Press de hombro": {
+    "name": "Press de hombro",
+    "canonical": "Press de hombro",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Jalón neutro": {
+    "name": "Remo pecho apoyado",
+    "canonical": "Jalón neutro",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Remo en polea": {
+    "name": "Jalón estrecho",
+    "canonical": "Remo en polea",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Hombro posterior polea espalda": {
+    "name": "Hombro posterior polea espalda",
+    "canonical": "Hombro posterior polea espalda",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Tríceps sobre cabeza": {
+    "name": "Tríceps 1 mano polea",
+    "canonical": "Tríceps sobre cabeza",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Curl en polea": {
+    "name": "Curo sentado",
+    "canonical": "Curl en polea",
+    "muscle": "",
+    "description": ""
+   },
+   "lib:Prensa de piernas": {
+    "name": "Prensa de piernas",
+    "canonical": "Prensa de piernas",
+    "muscle": "Cuádriceps",
+    "description": ""
+   },
+   "lib:Hip thrust": {
+    "name": "Hip thrust",
+    "canonical": "Hip thrust",
+    "muscle": "Glúteos",
+    "description": ""
+   },
+   "lib:Curl femoral": {
+    "name": "Curl femoral",
+    "canonical": "Curl femoral",
+    "muscle": "Isquiotibiales",
+    "description": ""
+   },
+   "lib:Extensión de cuádriceps": {
+    "name": "Extensión de cuádriceps",
+    "canonical": "Extensión de cuádriceps",
+    "muscle": "Cuádriceps",
+    "description": ""
+   },
+   "lib:Gemelo sentado": {
+    "name": "Gemelo sentado",
+    "canonical": "Gemelo sentado",
+    "muscle": "Gemelos",
+    "description": ""
+   },
+   "lib:Elevación de rodillas": {
+    "name": "Crunch polea",
+    "canonical": "Elevación de rodillas",
+    "muscle": "Abdominales",
+    "description": ""
+   },
+   "lib:Plancha lateral": {
+    "name": "Elevación de piernas",
+    "canonical": "Plancha lateral",
+    "muscle": "Core lateral",
+    "description": ""
+   },
+   "lib:Pecho máquina": {
+    "name": "Pecho máquina",
+    "canonical": "Pecho máquina",
+    "muscle": "Pectoral",
+    "description": ""
+   },
+   "lib:Crunch": {
+    "name": "Crunch",
+    "canonical": "Crunch",
+    "muscle": "Abdominales",
+    "description": ""
+   }
+  },
+  "sessions": [
+   {
+    "id": "legacy-push-2026-08-31",
+    "date": "2026-08-31",
+    "title": "Push",
+    "dayType": null,
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Press banca",
+      "name": "Press banca",
+      "canonical": "Press banca",
+      "muscle": "",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 60,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-08-31T06:00:00.000Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Press inclinado mancuernas",
+      "name": "Press inclinado mancuernas",
+      "canonical": "Press inclinado mancuernas",
+      "muscle": "",
+      "description": "",
+      "order": 1,
+      "sets": [
+       {
+        "kg": 26,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-08-31T06:00:00.000Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Fondos",
+      "name": "Fondos",
+      "canonical": "Fondos",
+      "muscle": "",
+      "description": "",
+      "order": 2,
+      "sets": [
+       {
+        "kg": 0,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-08-31T06:00:00.000Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Elevaciones laterales",
+      "name": "Elevaciones laterales",
+      "canonical": "Elevaciones laterales",
+      "muscle": "",
+      "description": "",
+      "order": 3,
+      "sets": [
+       {
+        "kg": 14,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-08-31T06:00:00.000Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Extensión tríceps polea",
+      "name": "Extensión tríceps polea",
+      "canonical": "Extensión tríceps polea",
+      "muscle": "",
+      "description": "",
+      "order": 4,
+      "sets": [
+       {
+        "kg": 20,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-08-31T06:00:00.000Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Press francés barra Z",
+      "name": "Press francés barra Z",
+      "canonical": "Press francés barra Z",
+      "muscle": "",
+      "description": "",
+      "order": 5,
+      "sets": [
+       {
+        "kg": 30,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-08-31T06:00:00.000Z",
+        "rir": 2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "legacy-bench-2026-09-01",
+    "date": "2026-09-01",
+    "title": "Press banca · registro",
+    "dayType": null,
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Press banca",
+      "name": "Press banca",
+      "canonical": "Press banca",
+      "muscle": "",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 60,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-01T06:00:00.000Z",
+        "rir": 2
+       },
+       {
+        "kg": 70,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-01T06:00:00.000Z",
+        "rir": 2
+       },
+       {
+        "kg": 75,
+        "reps": 6,
+        "done": true,
+        "ts": "2026-09-01T06:00:00.000Z",
+        "rir": 1
+       },
+       {
+        "kg": 75,
+        "reps": 6,
+        "done": true,
+        "ts": "2026-09-01T06:00:00.000Z",
+        "rir": 1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "mu0pqar8",
+    "date": "2026-09-14",
+    "title": "Lunes · Torso A",
+    "dayType": "torso_a",
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Press inclinado con mancuernas",
+      "name": "Pecho maquina",
+      "canonical": "Press inclinado con mancuernas",
+      "muscle": "",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 57,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-14T03:59:53.080Z",
+        "rir": 4
+       },
+       {
+        "kg": 70,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-14T04:01:39.247Z",
+        "rir": 2
+       },
+       {
+        "kg": 70,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-14T04:04:14.268Z",
+        "rir": 1
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Remo con pecho apoyado",
+      "name": "Remo con pecho apoyado",
+      "canonical": "Remo con pecho apoyado",
+      "muscle": "",
+      "description": "",
+      "order": 1,
+      "sets": [
+       {
+        "kg": 25,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-14T04:08:14.605Z",
+        "rir": 2
+       },
+       {
+        "kg": 30,
+        "reps": 7,
+        "done": true,
+        "ts": "2026-09-14T04:09:57.830Z",
+        "rir": 2
+       },
+       {
+        "kg": 30,
+        "reps": 7,
+        "done": true,
+        "ts": "2026-09-14T04:13:08.235Z",
+        "rir": 1
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Jalón al pecho",
+      "name": "Jalón al pecho",
+      "canonical": "Jalón al pecho",
+      "muscle": "",
+      "description": "",
+      "order": 2,
+      "sets": [
+       {
+        "kg": 9,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-14T04:15:12.390Z",
+        "rir": 2
+       },
+       {
+        "kg": 9,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-14T04:17:10.444Z",
+        "rir": 1
+       },
+       {
+        "kg": 9,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-14T04:21:30.900Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Elevaciones laterales",
+      "name": "Elevaciones laterales",
+      "canonical": "Elevaciones laterales",
+      "muscle": "",
+      "description": "",
+      "order": 3,
+      "sets": [
+       {
+        "kg": 50,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-14T04:24:41.126Z",
+        "rir": 2
+       },
+       {
+        "kg": 50,
+        "reps": 11,
+        "done": true,
+        "ts": "2026-09-14T04:26:38.941Z",
+        "rir": 2
+       },
+       {
+        "kg": 50,
+        "reps": 11,
+        "done": true,
+        "ts": "2026-09-14T04:28:51.317Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Pájaros en máquina",
+      "name": "Pájaros en máquina",
+      "canonical": "Pájaros en máquina",
+      "muscle": "",
+      "description": "",
+      "order": 4,
+      "sets": [
+       {
+        "kg": 64,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-14T04:31:16.737Z",
+        "rir": 4
+       },
+       {
+        "kg": 64,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-14T04:33:09.105Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Curl inclinado con mancuernas",
+      "name": "Curl inclinado con mancuernas",
+      "canonical": "Curl inclinado con mancuernas",
+      "muscle": "",
+      "description": "",
+      "order": 5,
+      "sets": [
+       {
+        "kg": 23,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-14T04:38:07.519Z",
+        "rir": 2
+       },
+       {
+        "kg": 27,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-14T04:39:47.486Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Extensión de tríceps en polea",
+      "name": "Extensión de tríceps en polea",
+      "canonical": "Extensión de tríceps en polea",
+      "muscle": "",
+      "description": "",
+      "order": 6,
+      "sets": [
+       {
+        "kg": 32,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-14T04:43:47.713Z",
+        "rir": 0
+       },
+       {
+        "kg": 32,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-14T04:44:56.000Z",
+        "rir": 0
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Bíceps barra z",
+      "name": "Bíceps barra z",
+      "canonical": "Bíceps barra z",
+      "muscle": "",
+      "description": "",
+      "order": 7,
+      "sets": [
+       {
+        "kg": 30,
+        "reps": 14,
+        "done": true,
+        "ts": "2026-09-14T04:48:40.846Z",
+        "rir": 2
+       },
+       {
+        "kg": 30,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-14T04:50:39.137Z",
+        "rir": 2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "mu2522o3",
+    "date": "2026-09-15",
+    "title": "Martes · Pierna A + ABS",
+    "dayType": "pierna_a",
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Sentadilla hack",
+      "name": "Sentadilla hack",
+      "canonical": "Sentadilla hack",
+      "muscle": "",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 10,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-15T03:58:07.395Z",
+        "rir": 4
+       },
+       {
+        "kg": 15,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-15T04:00:03.277Z",
+        "rir": 2
+       },
+       {
+        "kg": 15,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-15T04:01:52.440Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Peso muerto rumano",
+      "name": "Peso muerto rumano",
+      "canonical": "Peso muerto rumano",
+      "muscle": "",
+      "description": "",
+      "order": 1,
+      "sets": [
+       {
+        "kg": 80,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-15T04:09:15.064Z",
+        "rir": 2
+       },
+       {
+        "kg": 100,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-15T04:12:11.234Z",
+        "rir": 2
+       },
+       {
+        "kg": 100,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-15T04:16:31.119Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Zancada atrás",
+      "name": "Zancada atrás",
+      "canonical": "Zancada atrás",
+      "muscle": "",
+      "description": "",
+      "order": 2,
+      "sets": [
+       {
+        "kg": 15,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-15T04:19:08.849Z",
+        "rir": 4
+       },
+       {
+        "kg": 15,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-15T04:20:35.328Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Aductor en máquina",
+      "name": "Aductor en máquina",
+      "canonical": "Aductor en máquina",
+      "muscle": "",
+      "description": "",
+      "order": 3,
+      "sets": [
+       {
+        "kg": 15,
+        "reps": 16,
+        "done": true,
+        "ts": "2026-09-15T04:25:30.473Z",
+        "rir": 2
+       },
+       {
+        "kg": 15,
+        "reps": 16,
+        "done": true,
+        "ts": "2026-09-15T04:26:52.751Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Gemelo de pie",
+      "name": "Gemelo de pie",
+      "canonical": "Gemelo de pie",
+      "muscle": "",
+      "description": "",
+      "order": 4,
+      "sets": [
+       {
+        "kg": 36,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-15T04:37:32.370Z",
+        "rir": 2
+       },
+       {
+        "kg": 43,
+        "reps": 6,
+        "done": true,
+        "ts": "2026-09-15T04:37:41.743Z",
+        "rir": 0
+       },
+       {
+        "kg": 36,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-15T04:39:18.711Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Crunch en polea",
+      "name": "Crunch en polea",
+      "canonical": "Crunch en polea",
+      "muscle": "",
+      "description": "",
+      "order": 5,
+      "sets": [
+       {
+        "kg": 0,
+        "reps": 14,
+        "done": true,
+        "ts": "2026-09-15T04:43:25.439Z",
+        "rir": 2
+       },
+       {
+        "kg": 0,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-15T04:43:30.817Z",
+        "rir": 2
+       },
+       {
+        "kg": 0,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-15T04:43:37.452Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Pallof press",
+      "name": "Pallof press",
+      "canonical": "Pallof press",
+      "muscle": "",
+      "description": "",
+      "order": 6,
+      "sets": [
+       {
+        "kg": 0,
+        "reps": 20,
+        "done": true,
+        "ts": "2026-09-15T04:43:55.962Z",
+        "rir": 2
+       },
+       {
+        "kg": 0,
+        "reps": 20,
+        "done": true,
+        "ts": "2026-09-15T04:44:01.298Z",
+        "rir": 2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "mu3kg2il",
+    "date": "2026-09-16",
+    "title": "Miércoles · Torso B",
+    "dayType": "torso_b",
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Presa pecho maquina",
+      "name": "Presa pecho maquina",
+      "canonical": "Presa pecho maquina",
+      "muscle": "",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 57,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-16T03:55:21.768Z",
+        "rir": 4
+       },
+       {
+        "kg": 77,
+        "reps": 5,
+        "done": true,
+        "ts": "2026-09-16T03:57:07.711Z",
+        "rir": 1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "mu3kl1ra",
+    "date": "2026-09-16",
+    "title": "Miércoles · Torso B",
+    "dayType": "torso_b",
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Press plano con mancuernas",
+      "name": "Presa inclinado maquina",
+      "canonical": "Press plano con mancuernas",
+      "muscle": "",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 20,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-16T04:00:02.575Z",
+        "rir": 2
+       },
+       {
+        "kg": 30,
+        "reps": 9,
+        "done": true,
+        "ts": "2026-09-16T04:03:53.645Z",
+        "rir": 1
+       },
+       {
+        "kg": 30,
+        "reps": 9,
+        "done": true,
+        "ts": "2026-09-16T04:06:11.997Z",
+        "rir": 1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "mu3kya3d",
+    "date": "2026-09-16",
+    "title": "Miércoles · Torso B",
+    "dayType": "torso_b",
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Press de hombro",
+      "name": "Press de hombro",
+      "canonical": "Press de hombro",
+      "muscle": "",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 20,
+        "reps": 7,
+        "done": true,
+        "ts": "2026-09-16T04:11:24.730Z",
+        "rir": 1
+       },
+       {
+        "kg": 20,
+        "reps": 7,
+        "done": true,
+        "ts": "2026-09-16T04:13:55.714Z",
+        "rir": 1
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "mu3l68ya",
+    "date": "2026-09-16",
+    "title": "Miércoles · Torso B",
+    "dayType": "torso_b",
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Elevaciones laterales",
+      "name": "Elevaciones laterales",
+      "canonical": "Elevaciones laterales",
+      "muscle": "",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 9,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-16T04:15:57.633Z",
+        "rir": 2
+       },
+       {
+        "kg": 10,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-16T04:17:38.306Z",
+        "rir": 1
+       },
+       {
+        "kg": 10,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-16T04:19:36.622Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Jalón neutro",
+      "name": "Remo pecho apoyado",
+      "canonical": "Jalón neutro",
+      "muscle": "",
+      "description": "",
+      "order": 1,
+      "sets": [
+       {
+        "kg": 36,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-16T04:22:01.632Z",
+        "rir": 2
+       },
+       {
+        "kg": 57,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-16T04:23:56.959Z",
+        "rir": 2
+       },
+       {
+        "kg": 57,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-16T04:26:07.090Z",
+        "rir": 2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "mu3lmcjs",
+    "date": "2026-09-16",
+    "title": "Miércoles · Torso B",
+    "dayType": "torso_b",
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Remo en polea",
+      "name": "Jalón estrecho",
+      "canonical": "Remo en polea",
+      "muscle": "",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 54,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-16T04:28:54.070Z",
+        "rir": 2
+       },
+       {
+        "kg": 64,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-16T04:30:48.083Z",
+        "rir": 2
+       },
+       {
+        "kg": 64,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-16T04:32:08.263Z",
+        "rir": 2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "mu3ltnz5",
+    "date": "2026-09-16",
+    "title": "Miércoles · Torso B",
+    "dayType": "torso_b",
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Hombro posterior polea espalda",
+      "name": "Hombro posterior polea espalda",
+      "canonical": "Hombro posterior polea espalda",
+      "muscle": "",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 27,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-16T04:34:31.235Z",
+        "rir": 2
+       },
+       {
+        "kg": 32,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-16T04:35:57.721Z",
+        "rir": 2
+       },
+       {
+        "kg": 32,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-16T04:37:37.209Z",
+        "rir": 2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "mu3m0qap",
+    "date": "2026-09-16",
+    "title": "Miércoles · Torso B",
+    "dayType": "torso_b",
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Tríceps sobre cabeza",
+      "name": "Tríceps 1 mano polea",
+      "canonical": "Tríceps sobre cabeza",
+      "muscle": "",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 14,
+        "reps": 112,
+        "done": true,
+        "ts": "2026-09-16T04:40:21.521Z",
+        "rir": 2
+       },
+       {
+        "kg": 14,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-16T04:42:18.776Z",
+        "rir": 2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "mu3ma80c",
+    "date": "2026-09-16",
+    "title": "Miércoles · Torso B",
+    "dayType": "torso_b",
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Curl en polea",
+      "name": "Curo sentado",
+      "canonical": "Curl en polea",
+      "muscle": "",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 12,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-16T04:48:30.580Z",
+        "rir": 2
+       },
+       {
+        "kg": 12,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-16T04:48:38.533Z",
+        "rir": 2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "muapdd3r",
+    "date": "2026-09-21",
+    "title": "Lunes · Torso A",
+    "dayType": "torso_a",
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Press inclinado con mancuernas",
+      "name": "Pecho maquina",
+      "canonical": "Press inclinado con mancuernas",
+      "muscle": "Pectoral superior",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 77,
+        "reps": 7,
+        "done": true,
+        "ts": "2026-09-21T03:59:14.265Z",
+        "rir": 1
+       },
+       {
+        "kg": 77,
+        "reps": 6,
+        "done": true,
+        "ts": "2026-09-21T04:02:09.967Z",
+        "rir": 2
+       },
+       {
+        "kg": 77,
+        "reps": 6,
+        "done": true,
+        "ts": "2026-09-21T04:02:33.976Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Curl inclinado con mancuernas",
+      "name": "Curl inclinado con mancuernas",
+      "canonical": "Curl inclinado con mancuernas",
+      "muscle": "Bíceps",
+      "description": "",
+      "order": 1,
+      "sets": [
+       {
+        "kg": 30,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-21T04:06:38.745Z",
+        "rir": 2
+       },
+       {
+        "kg": 35,
+        "reps": 6,
+        "done": true,
+        "ts": "2026-09-21T04:08:43.572Z",
+        "rir": 0
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Elevaciones laterales",
+      "name": "Elevaciones laterales",
+      "canonical": "Elevaciones laterales",
+      "muscle": "Deltoide lateral",
+      "description": "",
+      "order": 2,
+      "sets": [
+       {
+        "kg": 10,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-21T04:13:42.808Z",
+        "rir": 1
+       },
+       {
+        "kg": 10,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-21T04:14:56.905Z",
+        "rir": 1
+       },
+       {
+        "kg": 10,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-21T04:18:34.121Z",
+        "rir": 0
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Remo con pecho apoyado",
+      "name": "Remo con pecho apoyado",
+      "canonical": "Remo con pecho apoyado",
+      "muscle": "Espalda media",
+      "description": "",
+      "order": 3,
+      "sets": [
+       {
+        "kg": 50,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-21T04:21:42.412Z",
+        "rir": 4
+       },
+       {
+        "kg": 63,
+        "reps": 9,
+        "done": true,
+        "ts": "2026-09-21T04:23:58.290Z",
+        "rir": 2
+       },
+       {
+        "kg": 63,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-21T04:27:32.020Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Jalón al pecho",
+      "name": "Jalón al pecho",
+      "canonical": "Jalón al pecho",
+      "muscle": "Dorsal",
+      "description": "",
+      "order": 4,
+      "sets": [
+       {
+        "kg": 68,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-21T04:31:04.029Z",
+        "rir": 4
+       },
+       {
+        "kg": 68,
+        "reps": 7,
+        "done": true,
+        "ts": "2026-09-21T04:34:01.717Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Pájaros en máquina",
+      "name": "Pájaros en máquina",
+      "canonical": "Pájaros en máquina",
+      "muscle": "Deltoide posterior",
+      "description": "",
+      "order": 5,
+      "sets": [
+       {
+        "kg": 32,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-21T04:36:09.169Z",
+        "rir": 2
+       },
+       {
+        "kg": 32,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-21T04:39:07.231Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Extensión de tríceps en polea",
+      "name": "Extensión de tríceps en polea",
+      "canonical": "Extensión de tríceps en polea",
+      "muscle": "Tríceps",
+      "description": "",
+      "order": 6,
+      "sets": [
+       {
+        "kg": 41,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-21T04:42:54.061Z",
+        "rir": 4
+       },
+       {
+        "kg": 45,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-21T04:45:41.869Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Bíceps barra z",
+      "name": "Bíceps barra z",
+      "canonical": "Bíceps barra z",
+      "muscle": "Biceps",
+      "description": "",
+      "order": 7,
+      "sets": [
+       {
+        "kg": 30,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-21T04:45:58.946Z",
+        "rir": 2
+       },
+       {
+        "kg": 30,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-21T04:48:39.021Z",
+        "rir": 2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "muc40gx8",
+    "date": "2026-09-22",
+    "title": "Martes · Pierna A + ABS",
+    "dayType": "pierna_a",
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Sentadilla hack",
+      "name": "Sentadilla hack",
+      "canonical": "Sentadilla hack",
+      "muscle": "Cuádriceps",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 15,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-22T04:07:07.416Z",
+        "rir": 2
+       },
+       {
+        "kg": 17,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-22T04:09:33.984Z",
+        "rir": 2
+       },
+       {
+        "kg": 17,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-22T04:12:28.265Z",
+        "rir": 1
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Peso muerto rumano",
+      "name": "Peso muerto rumano",
+      "canonical": "Peso muerto rumano",
+      "muscle": "Isquiotibiales",
+      "description": "",
+      "order": 1,
+      "sets": [
+       {
+        "kg": 100,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-22T04:17:33.814Z",
+        "rir": 2
+       },
+       {
+        "kg": 105,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-22T04:21:46.252Z",
+        "rir": 2
+       },
+       {
+        "kg": 105,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-22T04:25:54.062Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Zancada atrás",
+      "name": "Zancada atrás",
+      "canonical": "Zancada atrás",
+      "muscle": "Glúteos y cuádriceps",
+      "description": "",
+      "order": 2,
+      "sets": [
+       {
+        "kg": 15,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-22T04:28:35.768Z",
+        "rir": 2
+       },
+       {
+        "kg": 17,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-22T04:31:31.932Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Aductor en máquina",
+      "name": "Aductor en máquina",
+      "canonical": "Aductor en máquina",
+      "muscle": "Aductores",
+      "description": "",
+      "order": 3,
+      "sets": [
+       {
+        "kg": 36,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-22T04:33:13.523Z",
+        "rir": 2
+       },
+       {
+        "kg": 43,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-22T04:35:05.693Z",
+        "rir": 0
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Gemelo de pie",
+      "name": "Gemelo de pie",
+      "canonical": "Gemelo de pie",
+      "muscle": "Gemelos",
+      "description": "",
+      "order": 4,
+      "sets": [
+       {
+        "kg": 15,
+        "reps": 15,
+        "done": true,
+        "ts": "2026-09-22T04:40:32.412Z",
+        "rir": 2
+       },
+       {
+        "kg": 20,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-22T04:40:59.276Z",
+        "rir": 2
+       },
+       {
+        "kg": 20,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-22T04:47:58.759Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Crunch en polea",
+      "name": "Crunch en polea",
+      "canonical": "Crunch en polea",
+      "muscle": "Abdominales",
+      "description": "",
+      "order": 5,
+      "sets": [
+       {
+        "kg": 0,
+        "reps": 15,
+        "done": true,
+        "ts": "2026-09-22T04:48:14.340Z",
+        "rir": 2
+       },
+       {
+        "kg": 0,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-22T04:48:23.447Z",
+        "rir": 2
+       },
+       {
+        "kg": 0,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-22T04:48:29.790Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Pallof press",
+      "name": "Pallof press",
+      "canonical": "Pallof press",
+      "muscle": "Core antirotación",
+      "description": "",
+      "order": 6,
+      "sets": [
+       {
+        "kg": 0,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-22T04:51:55.636Z",
+        "rir": 2
+       },
+       {
+        "kg": 0,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-22T04:52:06.619Z",
+        "rir": 2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "mudkb678",
+    "date": "2026-09-23",
+    "title": "Miércoles · Torso B",
+    "dayType": "torso_b",
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Press plano con mancuernas",
+      "name": "Press plano con mancuernas",
+      "canonical": "Press plano con mancuernas",
+      "muscle": "Pectoral",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 35,
+        "reps": 7,
+        "done": true,
+        "ts": "2026-09-23T04:04:02.896Z",
+        "rir": 1
+       },
+       {
+        "kg": 35,
+        "reps": 7,
+        "done": true,
+        "ts": "2026-09-23T04:07:13.002Z",
+        "rir": 2
+       },
+       {
+        "kg": 35,
+        "reps": 7,
+        "done": true,
+        "ts": "2026-09-23T04:07:21.096Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Press de hombro",
+      "name": "Press de hombro",
+      "canonical": "Press de hombro",
+      "muscle": "Deltoide anterior",
+      "description": "",
+      "order": 1,
+      "sets": [
+       {
+        "kg": 20,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-23T04:11:50.455Z",
+        "rir": 2
+       },
+       {
+        "kg": 20,
+        "reps": 9,
+        "done": true,
+        "ts": "2026-09-23T04:14:37.143Z",
+        "rir": 1
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Elevaciones laterales",
+      "name": "Elevaciones laterales",
+      "canonical": "Elevaciones laterales",
+      "muscle": "Deltoide lateral",
+      "description": "",
+      "order": 2,
+      "sets": [
+       {
+        "kg": 10,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-23T04:17:16.266Z",
+        "rir": 1
+       },
+       {
+        "kg": 10,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-23T04:23:11.799Z",
+        "rir": 2
+       },
+       {
+        "kg": 10,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-23T04:23:20.484Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Jalón neutro",
+      "name": "Jalón neutro",
+      "canonical": "Jalón neutro",
+      "muscle": "Dorsal",
+      "description": "",
+      "order": 3,
+      "sets": [
+       {
+        "kg": 57,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-23T04:25:15.484Z",
+        "rir": 2
+       },
+       {
+        "kg": 70,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-23T04:27:08.751Z",
+        "rir": 2
+       },
+       {
+        "kg": 70,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-23T04:29:59.705Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Remo en polea",
+      "name": "Remo en polea",
+      "canonical": "Remo en polea",
+      "muscle": "Espalda media",
+      "description": "",
+      "order": 4,
+      "sets": [
+       {
+        "kg": 68,
+        "reps": 7,
+        "done": true,
+        "ts": "2026-09-23T04:32:05.593Z",
+        "rir": 2
+       },
+       {
+        "kg": 68,
+        "reps": 7,
+        "done": true,
+        "ts": "2026-09-23T04:33:29.307Z",
+        "rir": 2
+       },
+       {
+        "kg": 68,
+        "reps": 7,
+        "done": true,
+        "ts": "2026-09-23T04:36:23.877Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Tríceps sobre cabeza",
+      "name": "Tríceps sobre cabeza",
+      "canonical": "Tríceps sobre cabeza",
+      "muscle": "Tríceps",
+      "description": "",
+      "order": 5,
+      "sets": [
+       {
+        "kg": 23,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-23T04:40:29.009Z",
+        "rir": 2
+       },
+       {
+        "kg": 23,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-23T04:43:03.944Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Curl en polea",
+      "name": "Curl en polea",
+      "canonical": "Curl en polea",
+      "muscle": "Bíceps",
+      "description": "",
+      "order": 6,
+      "sets": [
+       {
+        "kg": 30,
+        "reps": 11,
+        "done": true,
+        "ts": "2026-09-23T04:48:32.743Z",
+        "rir": 2
+       },
+       {
+        "kg": 30,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-23T04:48:38.763Z",
+        "rir": 2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "muf01nfd",
+    "date": "2026-09-24",
+    "title": "Jueves · Pierna B + ABS",
+    "dayType": "pierna_b",
+    "status": "done",
+    "heavyDuty": false,
+    "exercises": [
+     {
+      "exerciseId": "lib:Prensa de piernas",
+      "name": "Prensa de piernas",
+      "canonical": "Prensa de piernas",
+      "muscle": "Cuádriceps",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": 143,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-24T03:59:07.636Z",
+        "rir": 4
+       },
+       {
+        "kg": 165,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-24T04:00:49.871Z",
+        "rir": 2
+       },
+       {
+        "kg": 165,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-24T04:03:48.448Z",
+        "rir": 1
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Hip thrust",
+      "name": "Hip thrust",
+      "canonical": "Hip thrust",
+      "muscle": "Glúteos",
+      "description": "",
+      "order": 1,
+      "sets": [
+       {
+        "kg": 20,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-24T04:10:27.298Z",
+        "rir": 2
+       },
+       {
+        "kg": 20,
+        "reps": 9,
+        "done": true,
+        "ts": "2026-09-24T04:12:52.255Z",
+        "rir": 2
+       },
+       {
+        "kg": 20,
+        "reps": 9,
+        "done": true,
+        "ts": "2026-09-24T04:15:24.654Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Curl femoral",
+      "name": "Curl femoral",
+      "canonical": "Curl femoral",
+      "muscle": "Isquiotibiales",
+      "description": "",
+      "order": 2,
+      "sets": [
+       {
+        "kg": 36,
+        "reps": 9,
+        "done": true,
+        "ts": "2026-09-24T04:18:15.320Z",
+        "rir": 2
+       },
+       {
+        "kg": 43,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-24T04:20:01.385Z",
+        "rir": 2
+       },
+       {
+        "kg": 43,
+        "reps": 9,
+        "done": true,
+        "ts": "2026-09-24T04:22:41.705Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Extensión de cuádriceps",
+      "name": "Extensión de cuádriceps",
+      "canonical": "Extensión de cuádriceps",
+      "muscle": "Cuádriceps",
+      "description": "",
+      "order": 3,
+      "sets": [
+       {
+        "kg": 63,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-24T04:26:46.793Z",
+        "rir": 2
+       },
+       {
+        "kg": 70,
+        "reps": 8,
+        "done": true,
+        "ts": "2026-09-24T04:29:36.603Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Gemelo sentado",
+      "name": "Gemelo sentado",
+      "canonical": "Gemelo sentado",
+      "muscle": "Gemelos",
+      "description": "",
+      "order": 4,
+      "sets": [
+       {
+        "kg": 20,
+        "reps": 14,
+        "done": true,
+        "ts": "2026-09-24T04:31:53.940Z",
+        "rir": 2
+       },
+       {
+        "kg": 20,
+        "reps": 14,
+        "done": true,
+        "ts": "2026-09-24T04:34:06.200Z",
+        "rir": 2
+       },
+       {
+        "kg": 20,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-24T04:36:30.155Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Elevación de rodillas",
+      "name": "Crunch polea",
+      "canonical": "Elevación de rodillas",
+      "muscle": "Abdominales",
+      "description": "",
+      "order": 5,
+      "sets": [
+       {
+        "kg": 65,
+        "reps": 14,
+        "done": true,
+        "ts": "2026-09-24T04:38:58.990Z",
+        "rir": 2
+       },
+       {
+        "kg": 70,
+        "reps": 11,
+        "done": true,
+        "ts": "2026-09-24T04:40:39.767Z",
+        "rir": 2
+       },
+       {
+        "kg": 70,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-24T04:43:08.868Z",
+        "rir": 2
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Plancha lateral",
+      "name": "Elevación de piernas",
+      "canonical": "Plancha lateral",
+      "muscle": "Core lateral",
+      "description": "",
+      "order": 6,
+      "sets": [
+       {
+        "kg": 0,
+        "reps": 12,
+        "done": true,
+        "ts": "2026-09-24T04:45:41.946Z",
+        "rir": 2
+       },
+       {
+        "kg": 0,
+        "reps": 10,
+        "done": true,
+        "ts": "2026-09-24T04:45:47.417Z",
+        "rir": 2
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "ses_muijdkbc_3six3n",
+    "date": "2026-09-26",
+    "title": "Torso A · 2026-09-26",
+    "dayType": "torso_a",
+    "status": "done",
+    "heavyDuty": false,
+    "startedAt": "2026-09-26T15:20:16.920Z",
+    "exercises": [
+     {
+      "exerciseId": "lib:Press inclinado con mancuernas",
+      "name": "Press inclinado con mancuernas",
+      "muscle": "Pectoral superior",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": "77",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-09-28T04:02:10.849Z"
+       },
+       {
+        "kg": "77",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-09-28T04:03:28.121Z"
+       },
+       {
+        "kg": "77",
+        "reps": "5",
+        "done": true,
+        "ts": "2026-09-28T04:06:08.234Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Pecho máquina",
+      "name": "Pecho máquina",
+      "muscle": "Pectoral",
+      "description": "",
+      "order": 1,
+      "sets": [
+       {
+        "kg": "35",
+        "reps": "5",
+        "done": true,
+        "ts": "2026-09-28T04:08:52.052Z"
+       },
+       {
+        "kg": "35",
+        "reps": "5",
+        "done": true,
+        "ts": "2026-09-28T04:13:32.315Z"
+       },
+       {
+        "kg": "35",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-09-28T04:13:38.241Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Remo con pecho apoyado",
+      "name": "Remo con pecho apoyado",
+      "muscle": "Espalda media",
+      "description": "",
+      "order": 2,
+      "sets": [
+       {
+        "kg": "30",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-09-28T04:19:19.139Z"
+       },
+       {
+        "kg": "40",
+        "reps": "4",
+        "done": true,
+        "ts": "2026-09-28T04:21:50.736Z"
+       },
+       {
+        "kg": "35",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-09-28T04:22:56.787Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Jalón al pecho",
+      "name": "Jalón al pecho",
+      "muscle": "Dorsal",
+      "description": "",
+      "order": 3,
+      "sets": [
+       {
+        "kg": "54",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-09-28T04:25:26.677Z"
+       },
+       {
+        "kg": "68",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-09-28T04:27:21.715Z"
+       },
+       {
+        "kg": "73",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-09-28T04:29:28.224Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Elevaciones laterales",
+      "name": "Elevaciones laterales",
+      "muscle": "Deltoide lateral",
+      "description": "",
+      "order": 4,
+      "sets": [
+       {
+        "kg": "12,5",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-09-28T04:30:52.978Z"
+       },
+       {
+        "kg": "12,5",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-09-28T04:33:12.896Z"
+       },
+       {
+        "kg": "10",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-09-28T04:35:32.217Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Pájaros en máquina",
+      "name": "Pájaros en máquina",
+      "muscle": "Deltoide posterior",
+      "description": "",
+      "order": 5,
+      "sets": [
+       {
+        "kg": "32",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-09-28T04:34:30.449Z"
+       },
+       {
+        "kg": "36",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-09-28T04:36:41.920Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Curl inclinado con mancuernas",
+      "name": "Curl inclinado con mancuernas",
+      "muscle": "Bíceps",
+      "description": "",
+      "order": 6,
+      "sets": [
+       {
+        "kg": "35",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-09-28T04:41:44.801Z"
+       },
+       {
+        "kg": "35",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-09-28T04:43:48.418Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Extensión de tríceps en polea",
+      "name": "Extensión de tríceps en polea",
+      "muscle": "Tríceps",
+      "description": "",
+      "order": 7,
+      "sets": [
+       {
+        "kg": "41",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-09-28T04:46:07.694Z"
+       },
+       {
+        "kg": "50",
+        "reps": "9",
+        "done": true,
+        "ts": "2026-09-28T04:48:08.647Z"
+       },
+       {
+        "kg": "54",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-09-28T04:50:04.849Z"
+       }
+      ]
+     }
+    ],
+    "endedAt": "2026-09-28T04:50:18.603Z"
+   },
+   {
+    "id": "ses_mum5epw8_mtph54",
+    "date": "2026-09-29",
+    "title": "Pierna A + ABS · 2026-09-29",
+    "dayType": "pierna_a",
+    "status": "done",
+    "heavyDuty": false,
+    "startedAt": "2026-09-29T04:00:20.890Z",
+    "exercises": [
+     {
+      "exerciseId": "lib:Sentadilla hack",
+      "name": "Sentadilla hack",
+      "muscle": "Cuádriceps",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": "17",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-09-29T04:06:38.230Z"
+       },
+       {
+        "kg": "20",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-09-29T04:07:58.010Z"
+       },
+       {
+        "kg": "20",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-09-29T04:11:22.595Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Peso muerto rumano",
+      "name": "Peso muerto rumano",
+      "muscle": "Isquiotibiales",
+      "description": "",
+      "order": 1,
+      "sets": [
+       {
+        "kg": "100",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-09-29T04:14:59.784Z"
+       },
+       {
+        "kg": "110",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-09-29T04:17:23.856Z"
+       },
+       {
+        "kg": "110",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-09-29T04:22:06.149Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Zancada atrás",
+      "name": "Zancada atrás",
+      "muscle": "Glúteos y cuádriceps",
+      "description": "",
+      "order": 2,
+      "sets": [
+       {
+        "kg": "17",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-09-29T04:25:38.254Z"
+       },
+       {
+        "kg": "20",
+        "reps": "5",
+        "done": true,
+        "ts": "2026-09-29T04:25:43.412Z"
+       },
+       {
+        "kg": "20",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-09-29T04:28:21.678Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Aductor en máquina",
+      "name": "Aductor en máquina",
+      "muscle": "Aductores",
+      "description": "",
+      "order": 3,
+      "sets": [
+       {
+        "kg": "43",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-09-29T04:36:50.103Z"
+       },
+       {
+        "kg": "43",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-09-29T04:38:52.055Z"
+       },
+       {
+        "kg": "50",
+        "reps": "5",
+        "done": true,
+        "ts": "2026-09-29T04:40:27.105Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Gemelo de pie",
+      "name": "Gemelo de pie",
+      "muscle": "Gemelos",
+      "description": "",
+      "order": 4,
+      "sets": [
+       {
+        "kg": "20",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-09-29T04:31:41.529Z"
+       },
+       {
+        "kg": "20",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-09-29T04:33:32.468Z"
+       },
+       {
+        "kg": "20",
+        "reps": "11",
+        "done": true,
+        "ts": "2026-09-29T04:35:27.712Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Crunch en polea",
+      "name": "Crunch en polea",
+      "muscle": "Abdominales",
+      "description": "",
+      "order": 5,
+      "sets": [
+       {
+        "kg": "0",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-09-29T04:42:22.892Z"
+       },
+       {
+        "kg": "0",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-09-29T04:45:31.937Z"
+       },
+       {
+        "kg": "0",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-09-29T04:45:37.114Z"
+       },
+       {
+        "kg": "0",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-09-29T04:47:18.975Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Pallof press",
+      "name": "Pallof press",
+      "muscle": "Core antirotación",
+      "description": "",
+      "order": 6,
+      "sets": [
+       {
+        "kg": "0",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-09-29T04:49:31.653Z"
+       },
+       {
+        "kg": "0",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-09-29T04:49:35.715Z"
+       },
+       {
+        "kg": "0",
+        "reps": "12",
+        "done": false,
+        "ts": "2026-09-29T04:49:40.296Z"
+       }
+      ]
+     }
+    ],
+    "endedAt": "2026-09-29T04:49:43.642Z"
+   },
+   {
+    "id": "ses_munkru0x_jpfmui",
+    "date": "2026-09-30",
+    "title": "Torso B · 2026-09-30",
+    "dayType": "torso_b",
+    "status": "done",
+    "heavyDuty": false,
+    "startedAt": "2026-09-30T03:58:13.185Z",
+    "exercises": [
+     {
+      "exerciseId": "lib:Presa pecho maquina",
+      "name": "Presa pecho maquina",
+      "muscle": "Pectoral",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": "84",
+        "reps": "5",
+        "done": true,
+        "ts": "2026-09-30T03:59:50.714Z"
+       },
+       {
+        "kg": "84",
+        "reps": "4",
+        "done": true,
+        "ts": "2026-09-30T04:01:48.450Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Press plano con mancuernas",
+      "name": "Press plano con mancuernas",
+      "muscle": "Pectoral",
+      "description": "",
+      "order": 1,
+      "sets": [
+       {
+        "kg": "37,5",
+        "reps": "5",
+        "done": true,
+        "ts": "2026-09-30T04:07:01.572Z"
+       },
+       {
+        "kg": "37,5",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-09-30T04:09:48.087Z"
+       },
+       {
+        "kg": "35",
+        "reps": "",
+        "done": true,
+        "ts": "2026-09-30T04:09:51.604Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Jalón neutro",
+      "name": "Jalón neutro",
+      "muscle": "Dorsal",
+      "description": "",
+      "order": 2,
+      "sets": [
+       {
+        "kg": "30",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-09-30T04:16:49.301Z"
+       },
+       {
+        "kg": "35",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-09-30T04:18:40.802Z"
+       },
+       {
+        "kg": "35",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-09-30T04:20:47.964Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Remo en polea",
+      "name": "Remo en polea",
+      "muscle": "Espalda media",
+      "description": "",
+      "order": 3,
+      "sets": [
+       {
+        "kg": "68",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-09-30T04:22:47.685Z"
+       },
+       {
+        "kg": "73",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-09-30T04:26:38.195Z"
+       },
+       {
+        "kg": "73",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-09-30T04:26:42.516Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Press de hombro",
+      "name": "Press de hombro",
+      "muscle": "Deltoide anterior",
+      "description": "",
+      "order": 4,
+      "sets": [
+       {
+        "kg": "22,5",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-09-30T04:30:22.616Z"
+       },
+       {
+        "kg": "22,5",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-09-30T04:30:27.471Z"
+       },
+       {
+        "kg": "22,5",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-09-30T04:34:09.434Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Elevaciones laterales",
+      "name": "Elevaciones laterales",
+      "muscle": "Deltoide lateral",
+      "description": "",
+      "order": 5,
+      "sets": [
+       {
+        "kg": "12,5",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-09-30T04:36:14.507Z"
+       },
+       {
+        "kg": "12,5",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-09-30T04:40:31.149Z"
+       },
+       {
+        "kg": "10",
+        "reps": "13",
+        "done": true,
+        "ts": "2026-09-30T04:40:35.647Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Tríceps sobre cabeza",
+      "name": "Tríceps sobre cabeza",
+      "muscle": "Tríceps",
+      "description": "",
+      "order": 7,
+      "sets": [
+       {
+        "kg": "50",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-09-30T04:43:57.262Z"
+       },
+       {
+        "kg": "54",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-09-30T04:44:09.673Z"
+       },
+       {
+        "kg": "54",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-09-30T04:48:01.381Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Curl en polea",
+      "name": "Curl en polea",
+      "muscle": "Bíceps",
+      "description": "",
+      "order": 8,
+      "sets": [
+       {
+        "kg": "35",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-09-30T04:48:07.465Z"
+       },
+       {
+        "kg": "35",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-09-30T04:50:09.174Z"
+       },
+       {
+        "kg": "35",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-09-30T04:53:34.035Z"
+       }
+      ]
+     }
+    ],
+    "endedAt": "2026-09-30T04:53:38.495Z"
+   },
+   {
+    "id": "ses_mup043mf_hen7lu",
+    "date": "2026-10-01",
+    "title": "Pierna B + ABS · 2026-10-01",
+    "dayType": "pierna_b",
+    "status": "done",
+    "heavyDuty": false,
+    "startedAt": "2026-10-01T03:55:25.911Z",
+    "exercises": [
+     {
+      "exerciseId": "lib:Prensa de piernas",
+      "name": "Prensa de piernas",
+      "muscle": "Cuádriceps",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": "143",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-10-01T03:58:45.384Z"
+       },
+       {
+        "kg": "165",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-10-01T04:02:20.737Z"
+       },
+       {
+        "kg": "177",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-10-01T04:05:17.836Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Hip thrust",
+      "name": "Hip thrust",
+      "muscle": "Glúteos",
+      "description": "",
+      "order": 1,
+      "sets": [
+       {
+        "kg": "20",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-10-01T04:08:25.027Z"
+       },
+       {
+        "kg": "25",
+        "reps": "9",
+        "done": true,
+        "ts": "2026-10-01T04:10:46.837Z"
+       },
+       {
+        "kg": "30",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-10-01T04:14:27.799Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Curl femoral",
+      "name": "Curl femoral",
+      "muscle": "Isquiotibiales",
+      "description": "",
+      "order": 2,
+      "sets": [
+       {
+        "kg": "43",
+        "reps": "9",
+        "done": true,
+        "ts": "2026-10-01T04:17:19.203Z"
+       },
+       {
+        "kg": "50",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-10-01T04:19:28.985Z"
+       },
+       {
+        "kg": "50",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-10-01T04:22:19.559Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Extensión de cuádriceps",
+      "name": "Extensión de cuádriceps",
+      "muscle": "Cuádriceps",
+      "description": "",
+      "order": 3,
+      "sets": [
+       {
+        "kg": "70",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-01T04:24:41.442Z"
+       },
+       {
+        "kg": "84",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-10-01T04:27:23.279Z"
+       },
+       {
+        "kg": "84",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-10-01T04:30:29.450Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Gemelo sentado",
+      "name": "Gemelo sentado",
+      "muscle": "Gemelos",
+      "description": "",
+      "order": 4,
+      "sets": [
+       {
+        "kg": "20",
+        "reps": "13",
+        "done": true,
+        "ts": "2026-10-01T04:32:50.598Z"
+       },
+       {
+        "kg": "20",
+        "reps": "13",
+        "done": true,
+        "ts": "2026-10-01T04:35:00.436Z"
+       },
+       {
+        "kg": "20",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-01T04:37:54.427Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Elevación de rodillas",
+      "name": "Elevación de rodillas",
+      "muscle": "Abdominales",
+      "description": "",
+      "order": 5,
+      "sets": [
+       {
+        "kg": "70",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-01T04:40:07.045Z"
+       },
+       {
+        "kg": "75",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-01T04:41:41.530Z"
+       },
+       {
+        "kg": "75",
+        "reps": "9",
+        "done": true,
+        "ts": "2026-10-01T04:43:58.200Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Plancha lateral",
+      "name": "Plancha lateral",
+      "muscle": "Core lateral",
+      "description": "",
+      "order": 6,
+      "sets": [
+       {
+        "kg": "0",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-01T04:49:05.049Z"
+       },
+       {
+        "kg": "0",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-01T04:49:09.439Z"
+       },
+       {
+        "kg": "0",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-01T04:49:15.432Z"
+       }
+      ]
+     }
+    ],
+    "endedAt": "2026-10-01T04:49:24.278Z"
+   },
+   {
+    "id": "ses_muupmoy7_rxpga9",
+    "date": "2026-10-05",
+    "title": "Torso A · 2026-10-05",
+    "dayType": "torso_a",
+    "status": "done",
+    "heavyDuty": false,
+    "startedAt": "2026-10-05T03:48:34.639Z",
+    "exercises": [
+     {
+      "exerciseId": "lib:Pecho máquina",
+      "name": "Pecho máquina",
+      "muscle": "Pectoral",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": "30",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-05T04:04:50.976Z"
+       },
+       {
+        "kg": "37,5",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-05T04:04:54.567Z"
+       },
+       {
+        "kg": "37,5",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-10-05T04:06:39.278Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Press inclinado con mancuernas",
+      "name": "Press inclinado con mancuernas",
+      "muscle": "Pectoral superior",
+      "description": "",
+      "order": 1,
+      "sets": [
+       {
+        "kg": "77",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-10-05T04:09:16.877Z"
+       },
+       {
+        "kg": "77",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-10-05T04:13:18.305Z"
+       },
+       {
+        "kg": "77",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-10-05T04:16:16.782Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Remo con pecho apoyado",
+      "name": "Remo con pecho apoyado",
+      "muscle": "Espalda media",
+      "description": "",
+      "order": 2,
+      "sets": [
+       {
+        "kg": "54",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-05T04:18:49.148Z"
+       },
+       {
+        "kg": "68",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-05T04:20:54.555Z"
+       },
+       {
+        "kg": "73",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-10-05T04:24:20.473Z"
+       },
+       {
+        "kg": "73",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-10-05T04:26:06.738Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Jalón al pecho",
+      "name": "Jalón al pecho",
+      "muscle": "Dorsal",
+      "description": "",
+      "order": 3,
+      "sets": [
+       {
+        "kg": "30",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-05T04:32:19.014Z"
+       },
+       {
+        "kg": "30",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-05T04:32:23.471Z"
+       },
+       {
+        "kg": "35",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-10-05T04:39:34.461Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Elevaciones laterales",
+      "name": "Elevaciones laterales",
+      "muscle": "Deltoide lateral",
+      "description": "",
+      "order": 4,
+      "sets": [
+       {
+        "kg": "10",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-05T04:39:40.453Z"
+       },
+       {
+        "kg": "10",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-05T04:39:44.543Z"
+       },
+       {
+        "kg": "12,5",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-10-05T04:39:49.648Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Pájaros en máquina",
+      "name": "Pájaros en máquina",
+      "muscle": "Deltoide posterior",
+      "description": "",
+      "order": 5,
+      "sets": [
+       {
+        "kg": "5",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-05T04:44:22.136Z"
+       },
+       {
+        "kg": "5",
+        "reps": "14",
+        "done": true,
+        "ts": "2026-10-05T04:44:27.823Z"
+       },
+       {
+        "kg": "6",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-05T04:44:33.012Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Extensión de tríceps en polea",
+      "name": "Extensión de tríceps en polea",
+      "muscle": "Tríceps",
+      "description": "",
+      "order": 6,
+      "sets": [
+       {
+        "kg": "50",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-10-05T04:48:22.959Z"
+       },
+       {
+        "kg": "54",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-10-05T04:48:27.555Z"
+       },
+       {
+        "kg": "54",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-05T04:51:43.590Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Curl inclinado con mancuernas",
+      "name": "Curl inclinado con mancuernas",
+      "muscle": "Bíceps",
+      "description": "",
+      "order": 7,
+      "sets": [
+       {
+        "kg": "35",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-05T04:51:57.605Z"
+       },
+       {
+        "kg": "35",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-05T04:53:55.767Z"
+       },
+       {
+        "kg": "35",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-05T05:16:29.303Z"
+       }
+      ]
+     }
+    ],
+    "endedAt": "2026-10-05T05:16:33.893Z"
+   },
+   {
+    "id": "ses_muw5963x_9s9cxi",
+    "date": "2026-10-06",
+    "title": "Pierna A + ABS · 2026-10-06",
+    "dayType": "pierna_a",
+    "status": "done",
+    "heavyDuty": false,
+    "startedAt": "2026-10-06T03:53:43.725Z",
+    "exercises": [
+     {
+      "exerciseId": "lib:Sentadilla hack",
+      "name": "Sentadilla hack",
+      "muscle": "Cuádriceps",
+      "description": "",
+      "order": 0,
+      "sets": [
+       {
+        "kg": "10",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-10-06T03:59:33.168Z"
+       },
+       {
+        "kg": "20",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-06T04:01:36.544Z"
+       },
+       {
+        "kg": "20",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-06T04:03:54.298Z"
+       },
+       {
+        "kg": "20",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-06T04:07:09.409Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Peso muerto rumano",
+      "name": "Peso muerto rumano",
+      "muscle": "Isquiotibiales",
+      "description": "",
+      "order": 1,
+      "sets": [
+       {
+        "kg": "100",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-10-06T04:12:16.347Z"
+       },
+       {
+        "kg": "110",
+        "reps": "6",
+        "done": true,
+        "ts": "2026-10-06T04:14:43.812Z"
+       },
+       {
+        "kg": "110",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-06T04:19:40.707Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Zancada atrás",
+      "name": "Zancada atrás",
+      "muscle": "Glúteos y cuádriceps",
+      "description": "",
+      "order": 2,
+      "sets": [
+       {
+        "kg": "17,5",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-06T04:21:24.770Z"
+       },
+       {
+        "kg": "20",
+        "reps": "7",
+        "done": true,
+        "ts": "2026-10-06T04:24:32.574Z"
+       },
+       {
+        "kg": "20",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-06T04:27:37.160Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Aductor en máquina",
+      "name": "Aductor en máquina",
+      "muscle": "Aductores",
+      "description": "",
+      "order": 3,
+      "sets": [
+       {
+        "kg": "43",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-06T04:29:41.753Z"
+       },
+       {
+        "kg": "43",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-06T04:32:05.170Z"
+       },
+       {
+        "kg": "43",
+        "reps": "8",
+        "done": true,
+        "ts": "2026-10-06T04:34:42.988Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Gemelo de pie",
+      "name": "Gemelo de pie",
+      "muscle": "Gemelos",
+      "description": "",
+      "order": 4,
+      "sets": [
+       {
+        "kg": "20",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-06T04:36:47.587Z"
+       },
+       {
+        "kg": "20",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-06T04:38:30.619Z"
+       },
+       {
+        "kg": "20",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-06T04:40:49.294Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Crunch en polea",
+      "name": "Crunch en polea",
+      "muscle": "Abdominales",
+      "description": "",
+      "order": 5,
+      "sets": [
+       {
+        "kg": "0",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-06T04:43:57.629Z"
+       },
+       {
+        "kg": "0",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-10-06T04:44:05.609Z"
+       },
+       {
+        "kg": "0",
+        "reps": "10",
+        "done": true,
+        "ts": "2026-10-06T04:48:34.306Z"
+       },
+       {
+        "kg": "0",
+        "reps": "9",
+        "done": true,
+        "ts": "2026-10-06T04:48:38.899Z"
+       }
+      ]
+     },
+     {
+      "exerciseId": "lib:Crunch",
+      "name": "Crunch",
+      "muscle": "Abdominales",
+      "description": "",
+      "order": 6,
+      "sets": [
+       {
+        "kg": "0",
+        "reps": "20",
+        "done": true,
+        "ts": "2026-10-06T04:52:01.621Z"
+       },
+       {
+        "kg": "0",
+        "reps": "16",
+        "done": true,
+        "ts": "2026-10-06T04:52:07.252Z"
+       },
+       {
+        "kg": "0",
+        "reps": "12",
+        "done": true,
+        "ts": "2026-10-06T04:52:11.437Z"
+       }
+      ]
+     }
+    ],
+    "endedAt": "2026-10-06T04:52:14.932Z"
+   }
+  ],
+  "measurements": [],
+  "photos": [],
+  "menu": {
+   "created": "2026-09-26T15:21:16.762Z",
+   "days": [
+    {
+     "day": 0,
+     "training": true,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r20",
+       "scale": 1
+      },
+      {
+       "slot": "postentreno",
+       "recipeId": "r12",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r05",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r23",
+       "scale": 1.25
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r08",
+       "scale": 1.5
+      }
+     ]
+    },
+    {
+     "day": 1,
+     "training": false,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r20",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r04",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r10",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r08",
+       "scale": 1.5
+      }
+     ]
+    },
+    {
+     "day": 2,
+     "training": true,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r01",
+       "scale": 1
+      },
+      {
+       "slot": "postentreno",
+       "recipeId": "r12",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r07",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r23",
+       "scale": 1.25
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r08",
+       "scale": 0.75
+      }
+     ]
+    },
+    {
+     "day": 3,
+     "training": false,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r01",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r07",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r22",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r17",
+       "scale": 1
+      }
+     ]
+    },
+    {
+     "day": 4,
+     "training": true,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r20",
+       "scale": 1
+      },
+      {
+       "slot": "postentreno",
+       "recipeId": "r02",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r16",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r15",
+       "scale": 1.25
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r17",
+       "scale": 0.75
+      }
+     ]
+    },
+    {
+     "day": 5,
+     "training": false,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r20",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r16",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r22",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r26",
+       "scale": 1.5
+      }
+     ]
+    },
+    {
+     "day": 6,
+     "training": true,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r09",
+       "scale": 1
+      },
+      {
+       "slot": "postentreno",
+       "recipeId": "r02",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r18",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r22",
+       "scale": 1.25
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r24",
+       "scale": 1
+      }
+     ]
+    },
+    {
+     "day": 7,
+     "training": false,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r01",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r16",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r06",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r26",
+       "scale": 0.5
+      }
+     ]
+    },
+    {
+     "day": 8,
+     "training": true,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r20",
+       "scale": 1
+      },
+      {
+       "slot": "postentreno",
+       "recipeId": "r12",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r16",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r06",
+       "scale": 1.25
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r24",
+       "scale": 0.5
+      }
+     ]
+    },
+    {
+     "day": 9,
+     "training": false,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r01",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r11",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r06",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r24",
+       "scale": 0.75
+      }
+     ]
+    },
+    {
+     "day": 10,
+     "training": true,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r01",
+       "scale": 1
+      },
+      {
+       "slot": "postentreno",
+       "recipeId": "r12",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r07",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r19",
+       "scale": 1.25
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r26",
+       "scale": 0.5
+      }
+     ]
+    },
+    {
+     "day": 11,
+     "training": false,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r20",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r18",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r22",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r08",
+       "scale": 1.5
+      }
+     ]
+    },
+    {
+     "day": 12,
+     "training": true,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r01",
+       "scale": 1
+      },
+      {
+       "slot": "postentreno",
+       "recipeId": "r02",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r18",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r06",
+       "scale": 1
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r26",
+       "scale": 0.5
+      }
+     ]
+    },
+    {
+     "day": 13,
+     "training": false,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r01",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r21",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r06",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r24",
+       "scale": 0.75
+      }
+     ]
+    },
+    {
+     "day": 14,
+     "training": true,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r14",
+       "scale": 1
+      },
+      {
+       "slot": "postentreno",
+       "recipeId": "r02",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r07",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r19",
+       "scale": 1.25
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r24",
+       "scale": 0.75
+      }
+     ]
+    },
+    {
+     "day": 15,
+     "training": false,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r01",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r07",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r22",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r08",
+       "scale": 1
+      }
+     ]
+    },
+    {
+     "day": 16,
+     "training": true,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r14",
+       "scale": 1
+      },
+      {
+       "slot": "postentreno",
+       "recipeId": "r02",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r11",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r10",
+       "scale": 1.25
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r17",
+       "scale": 1.5
+      }
+     ]
+    },
+    {
+     "day": 17,
+     "training": false,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r14",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r11",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r10",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r08",
+       "scale": 1.5
+      }
+     ]
+    },
+    {
+     "day": 18,
+     "training": true,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r09",
+       "scale": 1
+      },
+      {
+       "slot": "postentreno",
+       "recipeId": "r02",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r05",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r19",
+       "scale": 1.25
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r26",
+       "scale": 1
+      }
+     ]
+    },
+    {
+     "day": 19,
+     "training": false,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r14",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r03",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r06",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r26",
+       "scale": 1.25
+      }
+     ]
+    },
+    {
+     "day": 20,
+     "training": true,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r20",
+       "scale": 1
+      },
+      {
+       "slot": "postentreno",
+       "recipeId": "r02",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r11",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r06",
+       "scale": 1.25
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r17",
+       "scale": 0.5
+      }
+     ]
+    },
+    {
+     "day": 21,
+     "training": false,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r01",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r11",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r23",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r08",
+       "scale": 1.5
+      }
+     ]
+    },
+    {
+     "day": 22,
+     "training": true,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r20",
+       "scale": 1
+      },
+      {
+       "slot": "postentreno",
+       "recipeId": "r02",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r05",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r06",
+       "scale": 1.25
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r17",
+       "scale": 0.75
+      }
+     ]
+    },
+    {
+     "day": 23,
+     "training": false,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r09",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r13",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r19",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r08",
+       "scale": 1.5
+      }
+     ]
+    },
+    {
+     "day": 24,
+     "training": true,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r14",
+       "scale": 1
+      },
+      {
+       "slot": "postentreno",
+       "recipeId": "r12",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r21",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r10",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r17",
+       "scale": 1.5
+      }
+     ]
+    },
+    {
+     "day": 25,
+     "training": false,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r14",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r18",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r06",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r24",
+       "scale": 1.5
+      }
+     ]
+    },
+    {
+     "day": 26,
+     "training": true,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r01",
+       "scale": 1
+      },
+      {
+       "slot": "postentreno",
+       "recipeId": "r02",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r16",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r15",
+       "scale": 1
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r26",
+       "scale": 0.75
+      }
+     ]
+    },
+    {
+     "day": 27,
+     "training": false,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r09",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r18",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r23",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r26",
+       "scale": 1.5
+      }
+     ]
+    },
+    {
+     "day": 28,
+     "training": true,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r01",
+       "scale": 1
+      },
+      {
+       "slot": "postentreno",
+       "recipeId": "r12",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r21",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r25",
+       "scale": 1.25
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r24",
+       "scale": 1.25
+      }
+     ]
+    },
+    {
+     "day": 29,
+     "training": false,
+     "targetKcal": 2500,
+     "meals": [
+      {
+       "slot": "desayuno",
+       "recipeId": "r01",
+       "scale": 1
+      },
+      {
+       "slot": "comida",
+       "recipeId": "r03",
+       "scale": 1.5
+      },
+      {
+       "slot": "cena",
+       "recipeId": "r22",
+       "scale": 1.5
+      },
+      {
+       "slot": "snack",
+       "recipeId": "r26",
+       "scale": 1.25
+      }
+     ]
+    }
+   ]
+  },
+  "settings": {
+   "heavyDuty": false
+  },
+  "legacy": {
+   "exportedAt": "2026-09-24T04:46:00.054Z",
+   "addedExercises": {
+    "0": [
+     [
+      "Bíceps barra z",
+      2,
+      8,
+      12,
+      90,
+      "Biceps"
+     ]
+    ],
+    "2": [
+     [
+      "Presa pecho maquina",
+      2,
+      8,
+      12,
+      90,
+      "Pecho"
+     ],
+     [
+      "Hombro posterior polea espalda",
+      3,
+      8,
+      12,
+      90,
+      "Hombro"
+     ]
+    ]
+   },
+   "exerciseSubs": {}
+  },
+  "migratedFrom": "web-export-v3",
+  "migratedAt": "2026-09-26T15:19:10.711Z",
+  "_banner": "<div class=\"banner info\">ℹ️  <button class=\"sm\" onclick=\"exportData()\">Descargar copia</button> <button class=\"sm\" onclick=\"DB._banner='';save();render()\">Entendido</button></div>",
+  "_note": "Importadas 16 sesiones y 145 series desde la exportación de la app web (v3). Nombres visibles renombrados conservados por sesión; el historial agrupa por ejercicio canónico sin mezclar sustituciones."
+ }
+}
