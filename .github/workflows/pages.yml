@@ -1,47 +1,38 @@
-name: Deploy APEX root site
+name: Sync APEX to root
 
 on:
+  workflow_dispatch:
   push:
     branches: [main]
-  workflow_dispatch:
+    paths:
+      - '.github/workflows/pages.yml'
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: true
+  contents: write
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  sync:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Build root APEX site
+      - name: Copy APEX into root
         run: |
           git clone --depth 1 https://github.com/agusgonbel-code/Apex.git /tmp/apex
-          mkdir -p site
-          cp -R /tmp/apex/assets site/
-          cp -R /tmp/apex/icons site/
-          cp /tmp/apex/datos-personal-recomp.json site/
-          cp /tmp/apex/index.html site/
-          cp /tmp/apex/manifest.webmanifest site/
+          rm -rf assets icons
+          cp -R /tmp/apex/assets .
+          cp -R /tmp/apex/icons .
+          cp /tmp/apex/datos-personal-recomp.json .
+          cp /tmp/apex/index.html .
+          cp /tmp/apex/manifest.webmanifest .
           python3 - <<'PY'
-          import json, pathlib
-          p=pathlib.Path("site/manifest.webmanifest")
+          import json, pathlib, re
+          p=pathlib.Path("manifest.webmanifest")
           m=json.loads(p.read_text())
-          m["id"]="/"
-          m["start_url"]="/"
-          m["scope"]="/"
+          m["id"]="/"; m["start_url"]="/"; m["scope"]="/"
           for icon in m.get("icons",[]):
               icon["src"]="/icons/"+icon["src"].split("/")[-1]
           p.write_text(json.dumps(m,ensure_ascii=False,indent=2))
-          p=pathlib.Path("site/index.html")
+          p=pathlib.Path("index.html")
           s=p.read_text()
           s=s.replace('<base href="/Apex/" />','')
           s=s.replace('/Apex/manifest.webmanifest','/manifest.webmanifest')
@@ -50,16 +41,14 @@ jobs:
           s=s.replace('./manifest.webmanifest','/manifest.webmanifest')
           s=s.replace('./icons/','/icons/')
           s=s.replace('./assets/','/assets/')
-          # Remove old project-path redirect if present
-          import re
           s=re.sub(r'<script>\s*if \(location\.pathname === "/" \|\| !location\.pathname\.startsWith\("/Apex"\)\) \{.*?</script>','',s,flags=re.S)
           p.write_text(s)
           PY
-          touch site/.nojekyll
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-      - name: Deploy
-        id: deployment
-        uses: actions/deploy-pages@v4
+          touch .nojekyll
+      - name: Commit root site
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html manifest.webmanifest assets icons datos-personal-recomp.json .nojekyll
+          git diff --cached --quiet || git commit -m "Publish APEX at root"
+          git push
